@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4n5lm895ogfp4fx8?svg=true)](https://ci.appveyor.com/project/ElenaBorgo/hw-2-api-ci)
